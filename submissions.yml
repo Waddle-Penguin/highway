@@ -1,5 +1,4 @@
 projects:
-  - "https://github.com/colorBanded/nmm-fw/"
   - "https://github.com/rustybubble/Rescue-Reach"
   - "https://github.com/manuthecoder/setup-server"
   - "https://github.com/vegetableleaf/PCB_BizCard"
@@ -623,7 +622,6 @@ projects:
   - "https://github.com/cookiemonsternz/StageKit"
   - "https://github.com/mathisfun2048/PaperCam"
   - "https://github.com/ThePathOfLeastResistance/MotorizedCameraSlider"
-  - "https://github.com/sophiayduan/Endev-board"
   - "https://github.com/kirthana3511/deskarm"
   - "https://github.com/mathisfun2048/PassPad"
   - "https://github.com/LapisGit/LapisBadge/"
@@ -634,3 +632,4 @@ projects:
   - "https://github.com/YashasSingh/Highway-skateboard"
   - "https://github.com/vkunamneni1/EcoPantry"
   - "https://github.com/jpt1729/Alarm-Clock"
+  - "https://github.com/penguin-awsome/Penguin_Paddle"
